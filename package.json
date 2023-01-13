@@ -1,0 +1,22 @@
+{
+  "name": "npm-supervillains",
+  "version": "1.0.0",
+  "description": "generate random super villain names",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RebRey/npm-supervillains.git"
+  },
+  "author": "Rebecca Reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RebRey/npm-supervillains/issues"
+  },
+  "homepage": "https://github.com/RebRey/npm-supervillains#readme",
+  "dependencies": {
+    "supervillains": "^3.1.0"
+  }
+}
